@@ -1,0 +1,10 @@
+D:\Studia\Pr_6_zad_4_forms\Pr_6_zad_4_forms\bin\Debug\Pr_6_zad_4_forms.exe.config
+D:\Studia\Pr_6_zad_4_forms\Pr_6_zad_4_forms\bin\Debug\Pr_6_zad_4_forms.exe
+D:\Studia\Pr_6_zad_4_forms\Pr_6_zad_4_forms\bin\Debug\Pr_6_zad_4_forms.pdb
+D:\Studia\Pr_6_zad_4_forms\Pr_6_zad_4_forms\obj\Debug\Pr_6_zad_4_forms.csproj.AssemblyReference.cache
+D:\Studia\Pr_6_zad_4_forms\Pr_6_zad_4_forms\obj\Debug\Pr_6_zad_4_forms.Form1.resources
+D:\Studia\Pr_6_zad_4_forms\Pr_6_zad_4_forms\obj\Debug\Pr_6_zad_4_forms.Properties.Resources.resources
+D:\Studia\Pr_6_zad_4_forms\Pr_6_zad_4_forms\obj\Debug\Pr_6_zad_4_forms.csproj.GenerateResource.cache
+D:\Studia\Pr_6_zad_4_forms\Pr_6_zad_4_forms\obj\Debug\Pr_6_zad_4_forms.csproj.CoreCompileInputs.cache
+D:\Studia\Pr_6_zad_4_forms\Pr_6_zad_4_forms\obj\Debug\Pr_6_zad_4_forms.exe
+D:\Studia\Pr_6_zad_4_forms\Pr_6_zad_4_forms\obj\Debug\Pr_6_zad_4_forms.pdb
